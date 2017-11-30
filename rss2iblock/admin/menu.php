@@ -24,7 +24,7 @@ if($APPLICATION->GetGroupRight("rss2iblock") > "D") {
 
 	                'text' => Loc::getMessage('RSS2IBLOCK_PREFS_MENU_TITLE'),
 	                'url' => '/bitrix/admin/rss2iblock_index.php?lang=' . LANGUAGE_ID,
-	                'more_url' => array('/bitrix/admin/rss2iblock_index.php?lang=' . LANGUAGE_ID),
+	                'more_url' => array('/bitrix/admin/rss2iblock_source_edit.php?lang=' . LANGUAGE_ID),
 	                'title' => Loc::getMessage('RSS2IBLOCK_PREFS_MENU_TITLE'),
 
 	            ),

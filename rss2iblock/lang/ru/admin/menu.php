@@ -1,0 +1,4 @@
+<?
+
+$MESS['RSS2IBLOCK_MENU_TITLE'] = 'Rss2IBlock';
+$MESS['RSS2IBLOCK_PREFS_MENU_TITLE'] = 'Источники';

@@ -14,10 +14,10 @@
 ## Работа с модулем
 Настройки модуля: _Настройки > Настройки продукта > Настройки модулей > Rss2IBlock_.
 
-![Настройки](http://belikov.net/static/rss2iblock/settings.png "Настройки модуля")
+![Настройки](http://arfeo.net/static/rss2iblock/settings.png "Настройки модуля")
 
 Интерфейс управления источниками: _Сервисы > Rss2IBlock > Источники_.
 
-![Интерфейс модуля](http://belikov.net/static/rss2iblock/sources.png "Список источников")
+![Интерфейс модуля](http://arfeo.net/static/rss2iblock/sources.png "Список источников")
 
-![Интерфейс модуля](http://belikov.net/static/rss2iblock/add_source.png "Добавление нового источника")
+![Интерфейс модуля](http://arfeo.net/static/rss2iblock/add_source.png "Добавление нового источника")

@@ -21,3 +21,7 @@
 ![Интерфейс модуля](http://arfeo.net/static/rss2iblock/sources.png "Список источников")
 
 ![Интерфейс модуля](http://arfeo.net/static/rss2iblock/add_source.png "Добавление нового источника")
+
+## Powered by
+
+* [Readability.php](https://github.com/andreskrey/readability.php) (Apache-2.0)

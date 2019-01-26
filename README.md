@@ -14,13 +14,13 @@
 ## Работа с модулем
 Настройки модуля: _Настройки > Настройки продукта > Настройки модулей > Rss2IBlock_.
 
-![Настройки](http://arfeo.net/static/rss2iblock/settings.png "Настройки модуля")
+![Настройки](http://static.arfeo.net/rss2iblock/settings.png "Настройки модуля")
 
 Интерфейс управления источниками: _Сервисы > Rss2IBlock > Источники_.
 
-![Интерфейс модуля](http://arfeo.net/static/rss2iblock/sources.png "Список источников")
+![Интерфейс модуля](http://static.arfeo.net/rss2iblock/sources.png "Список источников")
 
-![Интерфейс модуля](http://arfeo.net/static/rss2iblock/add_source.png "Добавление нового источника")
+![Интерфейс модуля](http://static.arfeo.net/rss2iblock/add_source.png "Добавление нового источника")
 
 ## Powered by
 
